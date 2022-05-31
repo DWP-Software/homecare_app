@@ -7,6 +7,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:133965423413:android:08b6b682cdbd7d111ca27c",
+        "android_client_info": {
+          "package_name": "com.appskep.homecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133965423413-hinpt46ecf71c1do8skfrqepu3njv3p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_Pnp9qcYRegN75P5y4KTIm7pSc8v0BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133965423413-hinpt46ecf71c1do8skfrqepu3njv3p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:133965423413:android:495c26918bf41a571ca27c",
         "android_client_info": {
           "package_name": "id.appskep.homecare"

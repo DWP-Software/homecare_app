@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "HomeCare-tvOS.app"
-               BlueprintName = "HomeCare-tvOS"
-               ReferencedContainer = "container:HomeCare.xcodeproj">
+               BuildableName = "homecare-tvOS.app"
+               BlueprintName = "homecare-tvOS"
+               ReferencedContainer = "container:homecare.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "HomeCare-tvOSTests.xctest"
-               BlueprintName = "HomeCare-tvOSTests"
-               ReferencedContainer = "container:HomeCare.xcodeproj">
+               BuildableName = "homecare-tvOSTests.xctest"
+               BlueprintName = "homecare-tvOSTests"
+               ReferencedContainer = "container:homecare.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "HomeCare-tvOS.app"
-            BlueprintName = "HomeCare-tvOS"
-            ReferencedContainer = "container:HomeCare.xcodeproj">
+            BuildableName = "homecare-tvOS.app"
+            BlueprintName = "homecare-tvOS"
+            ReferencedContainer = "container:homecare.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "HomeCare-tvOS.app"
-            BlueprintName = "HomeCare-tvOS"
-            ReferencedContainer = "container:HomeCare.xcodeproj">
+            BuildableName = "homecare-tvOS.app"
+            BlueprintName = "homecare-tvOS"
+            ReferencedContainer = "container:homecare.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

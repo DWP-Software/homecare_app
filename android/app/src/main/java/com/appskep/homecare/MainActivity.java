@@ -1,4 +1,4 @@
-package id.appskep.homecare;
+package com.appskep.homecare;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "HomeCare";
+    return "homecare";
   }
 }

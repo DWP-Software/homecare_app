@@ -1,13 +1,10 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import axios from 'axios';
-import Axios from 'axios';
+import { default as axios, default as Axios } from 'axios';
 import React, { useEffect, useState } from 'react';
-import { ActivityIndicator, Image, Pressable, RefreshControl, ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { Image, Pressable, RefreshControl, ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import ImagePicker from 'react-native-image-picker';
-import { color } from 'react-native-reanimated';
-import { IcClose, IcInvite, IcProfile, IcProfileOn, IcSetting, IcStarOff, IcStarOn, ProfileDummy } from '../../assets';
+import { IcClose, IcProfile, IcSetting, IcStarOff, IcStarOn } from '../../assets';
 import { Button, Gap, Loading, ModalCenter, SubMenuVertical } from '../../components';
-import { API_HOST } from '../../config';
 import { endpoint } from '../../config/API/service';
 import { COLOR_BASE_PRIMARY_MAIN, COLOR_BASE_PRIMARY_TEXT, COLOR_BASE_SECOND_TEXT, FONT_LIGHT, FONT_MEDIUM } from '../../styles';
 import { getBase64FromUrl, getData, showMessage, storeData } from '../../utils';
